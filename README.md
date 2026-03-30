@@ -29,7 +29,12 @@ I designed a centralized executive summary to deliver a real-time snapshot of ov
 **Years of Operation: ** 9.70— Highlights business longevity and market presence.
 
 ** Interactive Dashboard View** 
-  <img width="924" height="938" alt="REF_1_IMAGE_PNG" src="https://github.com/user-attachments/assets/de9c236c-9e2d-4136-a14d-14be9fea5e94" />
 
+
+REF_1_IMAGE.PNG.png
+
+REF_2_IMAGE.png
+
+REF_3_IMAGE.png
 
 
