@@ -19,11 +19,16 @@ This project presents a robust Business Intelligence solution aimed at evaluatin
 I designed a centralized executive summary to deliver a real-time snapshot of overall business performance:
 
 **Total Sales:** ₹1.20M — Reflects the total revenue generated across all outlets.
-**Average Sales per Outlet:** ₹120.17K — Evaluates outlet-level performance and operational efficiency.
+ 
+ **Average Sales per Outlet:** ₹120.17K — Evaluates outlet-level performance and operational efficiency.
+
 **Average Sales per Order:** ₹140.99 — Represents the average customer basket value.
+
 **Average Rating:** 3.92 — Indicates overall customer satisfaction and service quality.
-Years of Operation:  9.70— Highlights business longevity and market presence.
+.
+**Years of Operation: ** 9.70— Highlights business longevity and market presence.
 
 ** Interactive Dashboard View** 
+REF_1_IMAGE.PNG.png
 
 
