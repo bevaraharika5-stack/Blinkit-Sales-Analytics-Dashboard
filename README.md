@@ -5,9 +5,13 @@
 This project presents a robust Business Intelligence solution aimed at evaluating Blinkit’s sales trends, customer satisfaction levels, and inventory allocation. Drawing from my experience as a Texturing Artist, I emphasized visual clarity and precision to design an intuitive, high-impact dashboard. The solution transforms complex grocery datasets into meaningful insights, enabling data-driven decision-making at an executive level.
 
 **Tech Stack**
+
 **Analytics Tool:** Power BI Desktop
+
 **Data Modeling**: Star Schema (Fact and Dimension Tables)
+
 **Logic:** Advanced DAX (Dynamic KPIs, Year-over-Year Analysis)
+
 **Visualization**: User-centric UI/UX design with clear, high-contrast metrics for enhanced readability
 
 **📊 Core Business KPIs**
@@ -20,8 +24,6 @@ I designed a centralized executive summary to deliver a real-time snapshot of ov
 **Average Rating:** 3.92 — Indicates overall customer satisfaction and service quality.
 Years of Operation:  9.70— Highlights business longevity and market presence.
 
-** Interactive Dashboard View**
-REF_1_IMAGE.PNG 
-REF_2_IMAGE
-REF_3_IMAGE
-REF_4_IMAGE
+** Interactive Dashboard View** 
+
+
